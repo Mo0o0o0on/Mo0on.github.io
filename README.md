@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 一个乱搞的博客
 
 You can use the [editor on GitHub](https://github.com/Mo0o0o0on/Mo0on.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 #  hello
-## Header 2
+## 碎碎念
 ### Header 3
 
 - Bulleted
